@@ -105,7 +105,8 @@
     justify-content: space-around;
     align-items: center;
     margin: auto;
-    margin-top: 80px;
+    margin-top: 90px;
+    margin-bottom: 100px;
 }
 .service-system-details{
     color: rgba(39, 39, 39, 0.80);
@@ -113,6 +114,51 @@
 }
 .service-system-icon{
     height: 55px;
-    padding-right: 10px;
+    margin-left: 46px;
+    
 }
+
+
+
+
+
+
+.banner-container-two{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 387.5px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05); 
+}
+.banner-two-image{
+    height: 262.5px;
+    padding-right: 178.75px;
+}
+.banner-two-title{
+    font-size: 30px;
+    color: #272727;
+    padding-left: 176.25px;
+}
+.color{
+    color: #E55473;
+}
+.banner-two-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 14px;
+    padding-left: 164.583px;
+}
+.banner-two-button{
+    font-size: 15px;
+    color: #FFF;
+    padding: 15px 35px;
+    border-radius: 5px;
+    background: #E55473;
+    border: none;
+    margin-left: 251.25px;
+    
+}
+
+
+    
 
