@@ -155,10 +155,34 @@
     border-radius: 5px;
     background: #E55473;
     border: none;
-    margin-left: 251.25px;
-    
+    margin-left: 251.25px; 
 }
 
+
+
+.instagram-container{
+    text-align: center;
+}
+.instagram-title{
+    font-size: 30px;
+    padding-top: 110px;
+    color: #272727;
+}
+.instagram-description{
+    font-size: 14px;
+    padding-top: 25px;
+    color: rgba(39, 39, 39, 0.60); 
+}
+.instagram-photos{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;   
+}
+.intragram-photo{
+    height: 247.5px;
+    width: 213.75px;
+}
 
     
 
