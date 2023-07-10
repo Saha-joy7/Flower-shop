@@ -96,4 +96,23 @@
     gap: 20px;
     
 }
+.service-system{
+    height: 200px;
+    width: 80%;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05); 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    margin-top: 80px;
+}
+.service-system-details{
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 15px;
+}
+.service-system-icon{
+    height: 55px;
+    padding-right: 10px;
+}
 
