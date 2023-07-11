@@ -25,7 +25,7 @@
     color: #272727;
 }
 .banner-one-description{
-    font-size: 14px;
+    font-size: 12px;
    padding: 13px 0px;
    color: rgba(39, 39, 39, 0.60);
 }
@@ -52,7 +52,7 @@
     color: #272727;
 }
 .featured-description{
-    font-size: 14px;
+    font-size: 12px;
     padding-top: 25px;
     color: rgba(39, 39, 39, 0.60);
     
@@ -110,7 +110,7 @@
 }
 .service-system-details{
     color: rgba(39, 39, 39, 0.80);
-    font-size: 15px;
+    font-size: 12px;
 }
 .service-system-icon{
     height: 55px;
@@ -145,8 +145,10 @@
 }
 .banner-two-description{
     color: rgba(39, 39, 39, 0.60);
-    font-size: 14px;
+    font-size: 12px;
     padding-left: 164.583px;
+    padding-top: 9.984px;
+    padding-bottom: 13.321px;
 }
 .banner-two-button{
     font-size: 15px;
@@ -169,7 +171,7 @@
     color: #272727;
 }
 .instagram-description{
-    font-size: 14px;
+    font-size: 12px;
     padding-top: 25px;
     color: rgba(39, 39, 39, 0.60); 
 }
@@ -204,7 +206,7 @@
     color: #272727;
 }
 .latest-deal-description{
-    font-size: 14px;
+    font-size: 12px;
     padding-top: 5px;
     color: rgba(39, 39, 39, 0.60); 
 }
@@ -226,6 +228,29 @@
     border-radius: 5px;
     background: #E55473;
     border: none;
+}
+.footer-container{
+    background: #111010;
+    margin-top: 53.248px;
+}
+.footer-container-details{
+    text-align: center;
+    padding-top: 53.248px;
+    padding-bottom: 53.248px;
+}
+.footer-title{
+    color: #FFFFFF;
+    font-size: 30px;
+}
+.footer-description{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 12px; 
+    padding-top: 9.984px;
+}
+.footer-symbol{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 10px;
+    padding-top: 13.312px;
 }
 
     
