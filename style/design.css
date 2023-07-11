@@ -4,7 +4,6 @@
 }
 
 
-
 .banner-container-one{
     display: flex;
     justify-content: space-between;
@@ -37,9 +36,6 @@
     background: #E55473;
     border: none;
 }
-
-
-
 
 
 
@@ -120,9 +116,6 @@
 
 
 
-
-
-
 .banner-container-two{
     display: flex;
     justify-content: space-between;
@@ -190,15 +183,13 @@
 
 
 .latest-deal-container{
-    background: url("../Rectangle\ 9.png"), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+    background: url("../banner.jpg"), lightgray 0px -203.444px / 100% 213.755% no-repeat;
     height: 280.625px;
     width: 900px;
     margin: auto;
     margin-top: 53.248px;
     border-radius: 8px;
-    
-
-    
+        
 }
 .latest-deal-title{
     font-size: 30px;
@@ -208,7 +199,7 @@
 .latest-deal-description{
     font-size: 12px;
     padding-top: 5px;
-    color: rgba(39, 39, 39, 0.60); 
+    color: rgba(39, 39, 39, 1); 
 }
 .latest-deal-container-details{
     text-align: center;
