@@ -184,5 +184,49 @@
     width: 213.75px;
 }
 
+
+
+
+.latest-deal-container{
+    background: url("../Rectangle\ 9.png"), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+    height: 280.625px;
+    width: 900px;
+    margin: auto;
+    margin-top: 53.248px;
+    border-radius: 8px;
+    
+
+    
+}
+.latest-deal-title{
+    font-size: 30px;
+    padding-top: 110px;
+    color: #272727;
+}
+.latest-deal-description{
+    font-size: 14px;
+    padding-top: 5px;
+    color: rgba(39, 39, 39, 0.60); 
+}
+.latest-deal-container-details{
+    text-align: center;
+}
+.latest-deal-email{
+    height: 40px;
+    width: 437.5px;
+    border: none;
+    border-radius: 8px;
+    background: #FFF;
+    margin-top: 20px; 
+}
+.latest-deal-button{
+    font-size: 16px;
+    color: #FFF;
+    padding: 10.26px 14.9px;
+    border-radius: 5px;
+    background: #E55473;
+    border: none;
+}
+
     
 
