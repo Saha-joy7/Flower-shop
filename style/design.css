@@ -4,6 +4,8 @@
 }
 
 
+/* From here start our banner-container-one work */
+
 .banner-container-one{
     display: flex;
     justify-content: space-between;
@@ -37,7 +39,7 @@
     border: none;
 }
 
-
+/* From here start our featured-container work */
 
 .featured-container{
     text-align: center;
@@ -92,6 +94,11 @@
     gap: 20px;
     
 }
+
+
+/* From here start our service-container work */
+
+
 .service-system{
     height: 200px;
     width: 80%;
@@ -114,6 +121,8 @@
     
 }
 
+
+/* From here start our banner-container-two work */
 
 
 .banner-container-two{
@@ -154,6 +163,8 @@
 }
 
 
+/* From here start our instagram-container work */
+
 
 .instagram-container{
     text-align: center;
@@ -180,6 +191,7 @@
 }
 
 
+/* From here start our latest-deal-container work */
 
 
 .latest-deal-container{
@@ -220,6 +232,53 @@
     background: #E55473;
     border: none;
 }
+
+/* From here start our introduce-container work */
+
+
+.introduce-title{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 110px;
+    color: #272727;
+}
+.introduce-details{
+    display: flex;
+    margin: 40px 100px;
+    justify-content: center;
+    align-content: center;
+    gap: 25px;
+    background: rgba(229, 84, 115, 0.10);
+    padding: 25px 0px;
+    
+}
+.introduce-explain{
+    font-size: 15px;
+    padding-top: 25px;
+    color: rgba(39, 39, 39, 0.60); 
+    padding-bottom: 25px;
+    
+}
+.introduce-button{
+    font-size: 16px;
+    color: #FFF;
+    padding: 10.26px 14.9px;
+    border-radius: 5px;
+    background: #E55473;
+    border: none;
+}
+.introduce-question{
+    font-size: 25px;
+    color: #272727;
+
+}
+
+
+
+/* From here start our footer-container work */
+
+
+
 .footer-container{
     background: #111010;
     margin-top: 53.248px;
